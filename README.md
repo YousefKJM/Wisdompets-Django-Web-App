@@ -20,3 +20,6 @@ This is a python project built using django framework.
 
 ## To run in local server
 * run `python3 manage.py runserver` on root directory. 
+
+## To create a Django app in your Django project
+* run `python3 manage.py startapp <nameofyourapp>` on root directory.
