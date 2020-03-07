@@ -36,3 +36,7 @@ This is a python project built using django framework.
 
 ## To apply made Django migrations
 * run `python3 manage.py migrate`
+
+## To create superuser (admin)
+* first navigate to admin.py under your app --> import your model .. see adoptions/admin.py
+* run `python3 manage.py createsuperuser`.
