@@ -18,4 +18,5 @@ This is a python project built using django framework.
 ### wisdompets/urls.py
 * Routes requests based on URL.
 
-
+## To run in local server
+* run `python3 manage.py runserver` on root directory. 
