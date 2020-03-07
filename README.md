@@ -26,3 +26,6 @@ This is a python project built using django framework.
 
 ## Pieces of a Django App
 ![Pieces of App](/readme_img/pofapp.png)
+
+## To make Django migrations
+* run `python3 manage.py makemigrations` to migrate your created models **!Important**
