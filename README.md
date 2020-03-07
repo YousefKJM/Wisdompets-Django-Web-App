@@ -29,3 +29,4 @@ This is a python project built using django framework.
 
 ## To make Django migrations
 * run `python3 manage.py makemigrations` to migrate your created models **!Important**
+* Note that you have to put your app in `INSTALLED_APPS = ['appname.apps.AppnameConfig', ...]` <-- like this. 
