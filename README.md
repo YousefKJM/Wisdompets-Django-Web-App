@@ -40,3 +40,7 @@ This is a python project built using django framework.
 ## To create superuser (admin)
 * first navigate to admin.py under your app --> import your model .. see adoptions/admin.py
 * run `python3 manage.py createsuperuser`.
+
+## To open interactive python shell with Django initialized
+* run `python3 manage.py shell`.
+
