@@ -25,4 +25,4 @@ This is a python project built using django framework.
 * run `python3 manage.py startapp <nameofyourapp>` on root directory.
 
 ## Pieces of a Django App
-![Pieces of App](/images/pofapp.png)
+![Pieces of App](/readme_img/pofapp.png)
